@@ -1,0 +1,10 @@
+{
+  "short_name": "3d test",
+  "name": "react three fiber test",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
