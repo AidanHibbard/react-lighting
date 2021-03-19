@@ -1,4 +1,4 @@
-# My first test with react three fiber
+# My first test with react-three-fiber lighting
 
 This project is a boilerplate for react three fiber projects in the future
 
@@ -10,6 +10,7 @@ src folder
 
 index file contains all components
 
+# Create React App Boilerplate
 ## Available Scripts
 
 In the project directory, you can run:
